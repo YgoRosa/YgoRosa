@@ -13,12 +13,6 @@ Busco minha primeira oportunidade de estágio em desenvolvimento backend para ap
     <a href="mailto:ygor18rosa@gmail.com">
         <img alt="E-mail" title="Fale Comigo" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
     </a>
-    <a href="https://github.com/YgoRosa?tab=repositories&sort=stargazers">
-        <img alt="Total de estrelas" title="Total de estrelas GitHub" src="https://custom-icon-badges.demolab.com/github/stars/YgoRosa?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas" />
-    </a>
-    <a href="https://github.com/YgoRosa?tab=followers">
-        <img alt="Seguidores" title="Me siga no GitHub" src="https://custom-icon-badges.demolab.com/github/followers/YgoRosa?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white" />
-    </a>
 </p>
 
 ---
@@ -49,6 +43,6 @@ Busco minha primeira oportunidade de estágio em desenvolvimento backend para ap
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=YgoRosa&show_icons=true&theme=tokyonight&include_all_commits=true" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YgoRosa&theme=tokyonight&layout=compact" />
+  <img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=YgoRosa&theme=tokyonight" />
+  <img height="160" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=YgoRosa&theme=tokyonight" />
 </p>
