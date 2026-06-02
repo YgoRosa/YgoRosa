@@ -42,7 +42,13 @@ Busco minha primeira oportunidade de estágio em desenvolvimento backend para ap
 
 ### 📊 GitHub Stats
 
-<p align="center">
-  <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YgoRosa&theme=tokyonight" />
-  <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=YgoRosa&theme=tokyonight" />
-</p>
+<table align="center" border="0" cellpadding="0" cellspacing="0">
+  <tr>
+    <td>
+      <img height="150" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YgoRosa&theme=tokyonight" />
+    </td>
+    <td>
+      <img height="150" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=YgoRosa&theme=tokyonight" />
+    </td>
+  </tr>
+</table>
